@@ -1,0 +1,15 @@
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\bin\Debug\net6.0\task_git_Del2vis.exe
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\bin\Debug\net6.0\task_git_Del2vis.deps.json
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\bin\Debug\net6.0\task_git_Del2vis.runtimeconfig.json
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\bin\Debug\net6.0\task_git_Del2vis.dll
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\bin\Debug\net6.0\task_git_Del2vis.pdb
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\obj\Debug\net6.0\task_git_Del2vis.csproj.AssemblyReference.cache
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\obj\Debug\net6.0\task_git_Del2vis.GeneratedMSBuildEditorConfig.editorconfig
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\obj\Debug\net6.0\task_git_Del2vis.AssemblyInfoInputs.cache
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\obj\Debug\net6.0\task_git_Del2vis.AssemblyInfo.cs
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\obj\Debug\net6.0\task_git_Del2vis.csproj.CoreCompileInputs.cache
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\obj\Debug\net6.0\task_git_Del2vis.dll
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\obj\Debug\net6.0\refint\task_git_Del2vis.dll
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\obj\Debug\net6.0\task_git_Del2vis.pdb
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\obj\Debug\net6.0\task_git_Del2vis.genruntimeconfig.cache
+C:\iths_main\task_13sep\task_git_Del2vis\task_git_Del2vis\obj\Debug\net6.0\ref\task_git_Del2vis.dll
