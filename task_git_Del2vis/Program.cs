@@ -52,7 +52,7 @@ static void Menu()
 
 static void EnterUser()
 {
-    string[] userNames = new string[] { "Alex", "David", "Bernt" };
+    string[] userNames = new string[] { "Alex", "David", "Bernt", "69", "Yorick" };
     while (true)
     {
         Console.WriteLine("enter username");
